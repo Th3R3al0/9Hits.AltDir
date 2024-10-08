@@ -1,5 +1,5 @@
 #!/bin/bash
-DEFAULT_DOWNLOAD="http://dl.9hits.com/5.0.0/9hitsv5-linux64.tar.bz2"
+DEFAULT_DOWNLOAD="https://www.dropbox.com/s/usku8rcyysk9664/9hits-linux-x64-2.5.2.tar.bz2"
 _9HITSUSER="_9hits"
 
 set -- --default-dl=$DEFAULT_DOWNLOAD $@
